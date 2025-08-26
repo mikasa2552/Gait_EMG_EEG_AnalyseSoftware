@@ -1,1 +1,1 @@
-运行main即可开始，导入的脑电文件为bdf形式，安装所需要的包在request.txt中
+运行main即可开始，导入的脑电文件为bdf形式，安装所需要的包在requirements.txt中，因代码计算使用到了CUDA，故未安装的电脑运行可能报错
